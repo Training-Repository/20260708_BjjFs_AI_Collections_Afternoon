@@ -66,7 +66,7 @@ next action — for entry into our collections CRM system.
 My audience is my collections supervisor and the CRM team.
 
 Write me a detailed, structured Copilot prompt I can use to complete this task.
-The prompt should specify: role, task, context, output format, and tone.
+The prompt should specify: role, task, context, constraints, output format, and tone.
 ```
 
 ---
@@ -138,7 +138,7 @@ based on DPD bucket, outstanding amount, and risk score.
 My audience is my collections team and field officers.
 
 Write me a detailed, structured Copilot prompt I can use to complete this task.
-The prompt should specify: role, task, context, output format, and tone.
+The prompt should specify: role, task, context, constraints, output format, and tone.
 ```
 
 ---
@@ -208,7 +208,7 @@ for the period Oct FY2026-27 to May FY2026-27.
 My audience is the senior management team in our monthly review meeting.
 
 Write me a detailed, structured Copilot prompt I can use to complete this task.
-The prompt should specify: role, task, context, output format, and tone.
+The prompt should specify: role, task, context, constraints, output format, and tone.
 ```
 
 ---
@@ -282,7 +282,7 @@ improve recovery in June 2026.
 My audience is the senior collections leadership team.
 
 Write me a detailed, structured Copilot prompt I can use to complete this task.
-The prompt should specify: role, task, context, output format, and tone.
+The prompt should specify: role, task, context, constraints, output format, and tone.
 ```
 
 ---
